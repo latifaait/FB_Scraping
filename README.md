@@ -4,7 +4,7 @@ Popular sites such as Facebook, Twitter, and YouTube often provide their APIs pu
 # Requirements
 ## For this program to work, you will need to install:
 
-* Python 3.7 \n
+* Python 3.7 
 * Requests library
 * Beautifulsoup library
 * Selenium library
