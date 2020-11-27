@@ -9,3 +9,11 @@ Popular sites such as Facebook, Twitter, and YouTube often provide their APIs pu
 * Beautifulsoup library
 * Selenium library
 * Web Driver
+
+# Installing ChromeDriver
+https://chromedriver.chromium.org/downloads
+
+#Installing Packages
+
+* pip install selenium
+* pip install bs4
